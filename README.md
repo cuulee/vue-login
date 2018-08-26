@@ -1,5 +1,7 @@
 # vue-login
 
+![Demo](demo.gif)
+
 ## Project setup
 ```
 npm install
